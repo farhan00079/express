@@ -4,6 +4,8 @@
 
 **This project has a [Code of Conduct][].**
 
+Author :- Farhan Alam
+
 ## Table of contents
 
 * [Installation](#Installation)
